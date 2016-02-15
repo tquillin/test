@@ -25,7 +25,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'rails_12factor'
 
-ruby '2.2.4'
+ruby '2.2.3'
 
 gem 'puma'
 
